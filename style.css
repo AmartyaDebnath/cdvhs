@@ -386,6 +386,15 @@ ul.bulleted-list {
   width: 100%;
 }
 
+.notice-title,
+.stdCorner-itle,
+.facCorner-title,
+.activity-title,
+.schPublication-title,
+.alumini-title {
+  font-size: 1.3rem;
+}
+
 .notice-ul-list,
 .stdCorner-ul-list,
 .facCorner-ul-list,
