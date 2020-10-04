@@ -420,7 +420,6 @@ ul.bulleted-list {
 .alumini-pannel {
   margin-bottom: 25px;
 }
-
 .to-the-right .third-btn {
   position: absolute;
   top: 8px;
@@ -429,8 +428,9 @@ ul.bulleted-list {
   display: block;
   background-color: #ffffff;
   color: #000000;
-  padding: 10px;
+  padding: 6px;
 }
+
 
 .third-btn:hover {
   color: #283476;
